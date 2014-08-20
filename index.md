@@ -21,3 +21,6 @@ filename: index.md
 
 ## [Presentation](http://usg-website-templates.github.io/presentation/)
 * *[code](https://github.com/USG-Website-Templates/presentation)*
+
+## [Presentation 2](https://usg-website-templates.github.io/presentation2/)
+* *[code](https://github.com/USG-Website-Templates/presentation2)*
