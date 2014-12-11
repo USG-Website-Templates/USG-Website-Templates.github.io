@@ -17,7 +17,7 @@ filename: index.md
 ## [Single Page, Simple Microsite](http://usg-website-templates.github.io/single-page-microsite-template/)
 * *[code](https://github.com/USG-Website-Templates/single-page-microsite-template)*
 
-## [Developer Hub](http://usg-website-templates.github.io/developer-hub/)
+## [API Documentation](http://usg-website-templates.github.io/developer-hub/)
 * *[code](https://github.com/USG-Website-Templates/developer-hub)*
 
 ## [Presentation](http://usg-website-templates.github.io/presentation/)
