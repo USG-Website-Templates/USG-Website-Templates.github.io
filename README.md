@@ -11,7 +11,7 @@ Instructions for creating a new microsite:
 6. Once you've created a new copy of the template, you can begin customizing it to fit your needs.   
 7. The new site may take 5-10 minutes to generate and will be live at `https://[name-of-github-org].github.io/[name-of-project-repository]`.  
 
-Have questions or need help?  [File an issue][(https://github.com/USG-Website-Templates/USG-Website-Templates.github.io/issues) and we'll follow up directly.  
+Have questions or need help?  [File an issue](https://github.com/USG-Website-Templates/USG-Website-Templates.github.io/issues) and we'll follow up directly.  
 
 
 * ![screen shot 2014-11-19 at 2 55 36 pm](https://cloud.githubusercontent.com/assets/633088/5113261/53abfd88-6ffc-11e4-9fa3-20e355c99844.png)
